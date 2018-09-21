@@ -17,9 +17,7 @@ favicon: favicon.png
 
 repository: zhangxiaobin123456/zhangxiaobin123456.github.io
 github_url: https://github.com/zhangxiaobin123456
-cnblog_url: http://www.cnblogs.com/ityouknow
-url: http://www.ityouknow.com
-enforce_ssl: ityouknow.com
+
 
 ## Gem
 plugins:
@@ -59,27 +57,27 @@ navs:
 
   -
     href: /
-    label: Home
+    label: 额嘤( ⊙ o ⊙ )！
 
   -
-    href: /spring-boot.html
-    label: Spring-Boot
+    href: /zz
+    label: 不存在的
 
   -
-    href: /spring-cloud.html
-    label: Spring-Cloud
+    href: /兄嘚
+    label: 兄嘚
 
   -
-    href: /archives.html
-    label: Archives
+    href: /布吉岛
+    label: 想看啥
 
   -
-    href: /link.html
-    label: Link
+    href: /布吉岛
+    label: 想
 
   -
-    href: /about.html
-    label: About
+    href: /布吉岛
+    label: 布吉岛
 
 
 # labels. my blog key words
@@ -121,17 +119,17 @@ labels:
 classes:
 
   -
-    href: /life.html
+    href: /我的故事
     name: 我的故事
     describe: 生活就是故事，故事就是生活
 
   -
-    href: /arch.html
+    href: /我的故事
     name: 架构师之路
     describe: 不知道你说啥
 
   -
-    href: /jvm.html
+    href: /我的故事
     name: Jvm系列文章
     describe: 应一看你故意
 
