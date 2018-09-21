@@ -56,11 +56,11 @@ paginate_path: 'page:num'
 navs:
 
   -
-    href: /
+    href: /不存在的
     label: 额嘤( ⊙ o ⊙ )！
 
   -
-    href: /zz
+    href: /不存在的
     label: 不存在的
 
   -
@@ -84,35 +84,35 @@ navs:
 labels:
 
   -
-    href: /share/2017/10/01/resource-sharing.html
+    href: /不存在的
     name: 啊哈
 
   -
-    href: /life.html
+    href: /不存在的
     name: 一一一
 
   -
-    href: /arch.html
+    href: /不存在的
     name: single
     
   -
-    href: /jvm.html
+    href: /不存在的
     name: asd
 
   -
-    href: /fastdfs.html
+    href: /不存在的
     name: FastDFS
 
   -
-    href: /mongodb.html
+    href: /不存在的
     name: MongoDB
 
   -
-    href: /docker.html
+    href: /不存在的
     name: Docker
 
   -
-    href: /open-source.html
+    href: /不存在的
     name: Code   
 
 # selected articles
@@ -137,7 +137,7 @@ classes:
 # ---------------- #
 #       RSS        #
 # ---------------- #
-subscribe_rss: /feed.xml
+subscribe_rss: /不存在的
 
 # Sidebar to show popular repo
 side_bar_repo_limit: 6 # Number of repos to show
