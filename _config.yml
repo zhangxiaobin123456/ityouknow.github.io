@@ -87,19 +87,19 @@ labels:
 
   -
     href: /share/2017/10/01/resource-sharing.html
-    name: 资源
+    name: 啊哈
 
   -
     href: /life.html
-    name: 故事
+    name: 一一一
 
   -
     href: /arch.html
-    name: 架构
+    name: single
     
   -
     href: /jvm.html
-    name: Jvm
+    name: asd
 
   -
     href: /fastdfs.html
@@ -128,12 +128,12 @@ classes:
   -
     href: /arch.html
     name: 架构师之路
-    describe: 一个架构师的自我修养
+    describe: 不知道你说啥
 
   -
     href: /jvm.html
     name: Jvm系列文章
-    describe: Java之根基，Java程序员必学
+    describe: 应一看你故意
 
 
 # ---------------- #
